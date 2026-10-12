@@ -1,0 +1,24 @@
+# aider (local AI pair-programming) history and cache
+.aider*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Tool / editor
+.claude/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Input PDFs and generated outputs (course notes/slides that aren't mine to publish)
+*.pdf
+temp_page_*.jpg
+Final_Notes.md
+slides_as_text.txt
